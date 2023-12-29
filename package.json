@@ -1,0 +1,19 @@
+{
+  "name": "@tolik19bat/new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolik19bat/new.git"
+  },
+  "author": "Anatoly Batov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tolik19bat/new/issues"
+  },
+  "homepage": "https://github.com/Tolik19bat/new#readme"
+}
